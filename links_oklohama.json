@@ -1,0 +1,1224 @@
+[
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2023",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2022-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/county-pcard-purchase-card",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/current-met-tower-list",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-purchase-card-pcard-fy-2021",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/pcard-fy-2022", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-fiscal-year-2022",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fy2022",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/cares-act-data", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2022",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-fiscal-year-2022",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2021",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/general-ledger", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-fiscal-year-2021",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2020",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/request-for-exemption-from-competitive-bid",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2019",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2021",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2021",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2019",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2021-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-licensed-ignition-interlock-service-centers",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2016",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2017",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2010",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-payroll-2018",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/expenditure-summary",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fy-2020",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2019",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2018",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2017",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2016",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2010",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2009",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-vendor-payments-fiscal-year-2008",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2020",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2018",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2017",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2016",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-20201",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2020-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/impaired-driving-trainings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2019-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2018-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/training-for-industry-and-training-for-industry-growth-economic-development-programs",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2010",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2010",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-institutions-of-higher-education",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-chambers-of-commerce",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-public-libraries",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-post-offices",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-fire-stations",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-health-care-facilities",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-state-parks",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-tag-agencies",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2008",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-technology-centers",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2009",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/comparison-of-actual-earnings-to-estimated-earnings-fiscal-year-to-date-june-30-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-annual-investment-performance",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-portfolio-composition-as-of-june-30-2011",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/go-green-oklahoma-paper-savings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/statewide-contracts-solicitations-search",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-county-government-websites",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-city-government-websites",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-lottery-commission-retailer-ranking",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-auditor-and-inspector-county-audit-reports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/non-appropriated-agencies",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/vacation-and-sick-day-comparison",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/pay-band-average-salary",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/average-employee-benefit-cost-comparison",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/classified-employee-turnover-rates",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/benefit-allowance-cost-trend",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cost-of-proposed-pay-band-adjustment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/pay-band-compa-ratios",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/classified-employee-turnover-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/market-analysis-by-agency",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-general-pay-increase-history",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/average-salary-market-comparison-trend",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/multi-survey-benchmark-jobs-and-relationship-to-market",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/energy-star-portfolio-state-managed-buildings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/energy-star-portfolio-average-rating",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/capitol-complex-renewable-energy-sources-cumulative-total",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-managed-buildings-energy-savings-impact",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2012-annual-cio-study-results",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/turnover-by-service-time-fiscal-years-2009-2013",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/labor-force", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/demographic-economic-stats",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/capital-improvements-plan-project-submittals-fiscal-year-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-capital-asset-utilization-by-function-primary-government",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-government-employees-by-function",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-quality-jobs-incentive-payments",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cabinet-breakdown-fy2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cabinet-breakdown-fy2012",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/p-card-scheduled-pay-cycle",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/top-10-separations-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/selected-oklahoma-demographic-information",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/top-10-sources-of-tax-revenue-other-than-sales-and-income-taxes",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-public-library-directory",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-public-school-district-directory",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/unspsc-codes", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-housing-finance-agency-ohfa-advantage-lenders",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-housing-finance-agency-funded-developments-in-service",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/funding-summary-fiscal-year-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/ohfa-funded-multi-family-developments",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-general-revenue-trends-income-vs-expenditures",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/healthchoice-medicare-supplement-plans-medications-with-quantity-limits",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/current-ohfa-advantage-lenders",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cabinet-breakdown-fy2014",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/classified-and-unclassified-state-employees-fy-1994-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/fy2016-capital-improvement-recommendations",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/early-prenatal-care",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/pre-term-births", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/consumer-directed-personal-assistance-services-supports-cd-pass-program",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/child-mental-health-treatment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/adult-mental-health-treatment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cncs-volunteer-service-hours",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/regional-tier-graduation-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/two-year-tier-graduation-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/water-contaminent-levels",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/elderly-falls", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/unintentional-deaths",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/intentional-deaths",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/prescription-monitoring-program",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/careertech-industry-credentials",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/adult-tobacco-use", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/head-start-enrollment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/high-school-dropout-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-tuition-aid-grant-otag-award",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/physical-activity", "scraped": false },
+  { "link": "https://data.ok.gov/dataset/vegetable-intake", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/oklahomas-promise-ohlap-scholarship",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/career-readiness-certifications",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/degrees-and-certificates",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/special-education-students-in-general-classroom",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/early-learning-services",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/e-coli-water-contaminent-levels",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/research-tier-graduation-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/concurrent-enrollment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/average-daily-attendance-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/school-counselor-student-ratio",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/foster-care-entry-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/foster-home-placement",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/child-reunification",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/medicare-preventable-hospitalizations",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/college-readiness-benchmarks",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/fruit-intake", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/meningococcal-vaccination",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/uninsured-individuals",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/health-professional-shortage-areas",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/unprescribed-drug-use",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/adult-obesity", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/acute-poisioning-hospitalization",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/youth-tobacco-use", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/students-covered-under-tobacco-free-school-policy",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/unintentional-prescription-drug-deaths",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/ap-support-program-avid",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/transportation-and-distribution-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-industry-sales",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/disability-clients-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/information-and-financial-services-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/income-poverty-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/agriculture-and-biosciences-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/initial-groundwater-assessment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/company-paid-training-hours",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-industry-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/alcohol-impaired-fatalities",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/energy-exports", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/science-and-technology-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/contaminated-land-acres-cleaned",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/energy-sales", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/transportation-and-distribution-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/average-annual-wage",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tanf-training-programs",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/dams-modified-for-safety",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/aerospace-and-defense-sales",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/rural-highway-shoulders",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/labor-force-participation",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/aerospace-and-defense-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/high-value-target-prosecutions",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/aerospace-and-defense-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/international-agricultural-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/post-tanf-employments",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/small-business-ownership",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/traffic-fatalities",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/information-and-financial-services-sales",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/research-and-development-investments",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/unemployment-insurance-benefits",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/real-gross-regional-product",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/youth-unemployment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/median-household-income",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/new-patents-filed", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/unrestrained-occupant-fatalities",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/state-labor-force", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/active-conservation-management",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/per-capita-personal-income",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/agriculture-and-biosciences-exports",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/microenterprise-ownership",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/veterans-returning-to-work",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/information-and-financial-services-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/total-nonfarm-employment",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/agriculture-and-biosciences-sales",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/transportation-and-distribution-sales",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/lane-mile-road-conditions",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/careertech-post-graduation-placement",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/youth-substance-abuse-prevention",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/cng-fleet-vehicles",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tax-delinquency-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/incident-based-reporting-system-coverage",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/it-first-call-resolution-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-employee-new-hire-retention",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/air-quality-federal-standards",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/air-quality-monitor-compliance",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tax-return-error-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/non-violent-crimes",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/online-state-license-applications",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/general-revenue-estimate-accuracy",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/stormready-oklahoma-jurisdictions",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/school-safe-rooms", "scraped": false },
+  { "link": "https://data.ok.gov/dataset/violent-crimes", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/recurring-findings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/security-risk-rating",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tax-collections-to-general-revenue-fund",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/citizen-perception-of-safety",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/audit-coverage", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/energy-star-certification",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/emergency-operating-center-tools",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/online-business-filing-transactions",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/mental-health-reentry-programs-participant",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/offender-recidivism",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/shared-it-support-services",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/online-motor-vehicle-renewals",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/debt-per-capita", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/okstatestat-monthly-visits",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/structurally-deficient-bridges",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/mental-health-wait-times",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/data-downloads", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/kindergarten-enrollment",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/pre-k-offerings", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/high-performing-schools",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/8th-grade-reading-proficiency",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/low-performing-schools",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/4th-grade-math-proficiency",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/8th-grade-math-proficiency",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/ap-exam-scores", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/statewide-contract-cost-savings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/teenage-birth-rate",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/infant-death-rate", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/total-energy-usage",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/ozone-standards-compliance-days",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/healthy-lake-acres",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/healthy-stream-river-miles",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/offenders-re-entering-workforce",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-employee-turnover-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/stem-summer-academies",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/ap-coursework-offerings",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/ap-test-fee-assistance",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/health-care-cost-growth",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/high-school-graduation-rate",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/remedial-coursework",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/prison-population", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/childhood-immunization",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/energy-employment", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/4th-grade-reading-proficiency",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/serious-vehicle-injuries",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/inpatient-re-admittance-care",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/adolescent-obesity",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/school-bullying", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/pension-debt-funded-ratio",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/unfunded-pension-liability",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/type-2-diabetes", "scraped": false },
+  { "link": "https://data.ok.gov/dataset/cancer-deaths", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/heart-disease-deaths",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/manufactured-home-and-manufactured-home-park-salesperson-license-holders",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/debt-service-and-fund-information",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/used-motor-vehicle-and-parts-commission-dealer-license-search",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/licensed-used-motor-vehicle-salesperson",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tribal-gaming-exclusivity-fees-2006-present",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/purchase-card-pcard-fiscal-year-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/underutilized-property-auctions",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/active-space-requests",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/moodys-bond-rating",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/10-year-comparison-of-taxpayer-income",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/rainy-day-fund", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/primary-government-functional-expenses",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/primary-government-sources-of-revenue",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-use-procurement-schedule",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2015",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/tax-expenditures-report-links",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/workforce-demographics",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/new-hire-statistics",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/turnover", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/okstatestat-financial-and-strategic-objectives-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/workforce-by-agency",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2015-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2014-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2013-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2012-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-public-school-site-directory",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/capital-expenditures-from-the-maintenance-of-state-buildings-revolving-fund",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/quick-action-closing-funds",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/vsr-test-schedule", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/state-of-oklahoma-revolving-funds-2013",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oklahoma-public-schools-fast-facts-2015-2016",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/classified-and-unclassified-workforce-statistics",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/2016-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/oustanding-bond-issue",
+    "scraped": false
+  },
+  { "link": "https://data.ok.gov/dataset/omes-projects", "scraped": false },
+  {
+    "link": "https://data.ok.gov/dataset/2017-real-property-asset-data",
+    "scraped": false
+  },
+  {
+    "link": "https://data.ok.gov/dataset/occupational-licensing-directory",
+    "scraped": false
+  }
+]
